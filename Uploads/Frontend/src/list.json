@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "story":"Web App Development",
+        "title":"Loren espom sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {
+        "id": 2,
+        "story":"Web App Testings",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {
+        "id": 3,
+        "story":"Penetration testing",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {
+        "id": 4,
+        "story":"Migration to Cloud",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {
+        "id": 5,
+        "story":"Backup and Life Cycle Management",
+        "title":"Loren espom sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {   
+        "id": 6,
+        "story":"Fine Tuning LLMS",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {
+        "id": 7,
+        "story":"Build RAG Based Chatbot",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    },
+    {
+        "id": 8,
+        "story":"Zero to Hero",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://images.pexels.com/photos/731510/pexels-photo-731510.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+    },
+    {
+        "id": 9,
+        "story":"Geting in World of Saga",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://images.pexels.com/photos/731510/pexels-photo-731510.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+    },
+    {
+        "id": 10,
+        "story":"FrontEnd reDeisgning",
+        "title":"Loren espom  sasasasa",
+        "price": 0,
+        "category":"New",
+        "img":"https://img.Newpik.com/New-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1723185928~exp=1723189528~hmac=8f14e0f93ca24383a1d83882c7f83594eb2e052a5e67781f8deb28f57be281cf&w=740"
+
+    }
+]
